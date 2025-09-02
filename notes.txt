@@ -1,0 +1,2 @@
+Design Modifications:
+Need to seperate profile and career routing in index.js
